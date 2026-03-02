@@ -1,0 +1,2 @@
+# Deloitte-Data-Analytics-course-complication-certification
+Completed Deloitte’s Data Analytics Virtual Experience Program, gaining hands-on exposure to real-world business scenarios. Worked on data cleaning, analysis, and dashboard creation using Excel and visualization tools. Developed practical skills in interpreting data insights, problem-solving, and presenting findings in a business context.
